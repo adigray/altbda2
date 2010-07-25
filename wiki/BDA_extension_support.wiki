@@ -1,0 +1,11 @@
+#summary Vendor-specific BDA extension support.
+#labels Featured,Phase-Requirements,Phase-Implementation
+
+	* *Technotrend* BDA API (use ttBdaDrvApi_Dll.dll). ToneBurst + Raw DiSEqC, LNB power-off, Modulation type selection.
+	* *Hauppauge* BDA extension. Raw DiSEqC, Modulation type selection, S2 Pilot/RollOff settings.
+	* *Conexant* BDA extension. Raw DiSEqC, Modulation type selection, S2 Pilot/RollOff settings (optional), LNB power-off (optional).
+	* *DvbWorld* BDA extension. ToneBurst + Raw DiSEqC, Modulation type selection.		
+	* *Turbosight* BDA extension. Raw DiSEqC, Modulation type selection, LNB power-off.
+	* *Twinhan* BDA extension. ToneBurst + Raw DiSEqC, Modulation type selection, LNB power-off.
+	* *TeVii* BDA API (TeVii.dll). Raw DiSEqC, LNB power-off, Modulation type selection.	
+	* *KNC ONE*, *Omicom S2* BDA extension. Raw DiSEqC, Modulation type selection.
