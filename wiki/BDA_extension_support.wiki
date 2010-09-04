@@ -8,5 +8,5 @@
 	* *Turbosight* BDA extension. Raw DiSEqC, Modulation type selection, LNB power-off.
 	* *Twinhan* BDA extension. ToneBurst + Raw DiSEqC, Modulation type selection, LNB power-off.
 	* *TeVii* BDA API (TeVii.dll). Raw DiSEqC, LNB power-off, Modulation type selection.	
-	* *KNC ONE*, *Omicom S2* BDA extension. Raw DiSEqC, Modulation type selection.
+	* *KNC ONE*, *Omicom S2* BDA extension. Raw DiSEqC, Modulation type selection, LNB power-off.
 	* *Microsoft Windows7* BDA extension. ToneBurst + DiSEqC 1.0, Modulation type selection.
