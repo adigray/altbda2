@@ -11,3 +11,7 @@
 	* *Bestunar* BDA extension. Raw DiSEqC, Modulation type selection, LNB power-off.	
 	* *KNC ONE*, *Omicom S2* BDA extension. Raw DiSEqC, Modulation type selection, LNB power-off.
 	* *Microsoft Windows7* BDA extension. ToneBurst + DiSEqC 1.0, Modulation type selection.
+	* *Compro* BDA extension. Raw DiSEqC, Modulation type selection.	
+	* *AnySee* BDA extension. ToneBurst + Raw DiSEqC, Modulation type selection.	
+	* *Genpix* BDA extension. ToneBurst + Raw DiSEqC, Modulation type selection.	
+	* *Netup* BDA extension. Raw DiSEqC, Modulation type selection.	
